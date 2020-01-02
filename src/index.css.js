@@ -12,7 +12,8 @@ export default {
     modal: {
       position: 'relative',
       background: `rgb(255, 255, 255)`,
-      width: '50%',
+      width: '80%',
+      max-width: '600px',
       margin: 'auto',
       border: `1px solid rgb(187, 187, 187)`,
       padding: '5px',
